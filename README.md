@@ -5,6 +5,4 @@ The goal of this project is to use multiple facets of the data science stack to 
 
 The entire workﬂow of the project is as below:
 
-<p align="center">
-  <img src="./workﬂow.jpg" alt="Workflow" width="800px">
-</p>
+![Workflow](https://github.com/SXiaZr/Predict-Trends-in-Startup-Investment/blob/master/workflow.jpg)
